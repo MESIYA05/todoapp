@@ -4,6 +4,9 @@
     font-family: 'Times New Roman', Times, serif;
     box-sizing: border-box;
 }
+body{
+    background-color: #050506;
+}
 .todo-app{
     width: 100%;
     max-width: 540px;
