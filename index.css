@@ -128,7 +128,8 @@ ul li span {
 }
 }
 @media screen and (max-width: 480px) {
-.container h1{
-    margin-left: 20px;
+body{
+    height: 81vh;
+    width: 100%;
 }
 }
