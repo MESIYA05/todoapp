@@ -96,6 +96,7 @@ ul li span{
 ul li span:hover{
     background: #090a0a;
 }
+
 @media screen and (max-width: 768px) {
  .todo-app {
         width: 90%;
@@ -124,5 +125,10 @@ ul li span {
         padding-left: 0;
         font-size: 20px;
         text-align: center;
+}
+}
+@media screen and (max-width: 480px) {
+.container h1{
+    text-align: center;
 }
 }
