@@ -138,4 +138,8 @@ body{
     height: 81vh;
     background-color: rgb(0, 0, 0); 
 }
+.appp{
+    position: absolute;
+    left:20px;
+}
 }
